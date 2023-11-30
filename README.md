@@ -1,4 +1,4 @@
-#🚀 Introducing Babble: Elevating Real-Time Chat to New Heights! 🚀
+🚀 #Introducing Babble: Elevating Real-Time Chat to New Heights! 🚀
 
 Are you ready to revolutionize your communication experience? Look no further than Babble – our cutting-edge real-time chat application designed with a visually pleasing interface that not only meets but exceeds your expectations!
 
