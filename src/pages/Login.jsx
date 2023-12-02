@@ -36,7 +36,7 @@ const Login= () => {
             {err && <span>Something went wrong</span>}
           </form>
           <p>Don't have an account?<Link to ="/register">Register</Link></p>
-          <span className='help'>//try typing in <br/>Email - hrushiborhade123@gmail.com <br/> Password - 123456</span>
+          <span className='help'>//try typing in <br/>Email - anamika123@gmail.com <br/> Password - 123456</span>
         </div>
       </div>
     </div>
